@@ -1,0 +1,75 @@
+.disnone{
+  display: none!important;
+}
+.display{
+  display: block!important;
+}
+
+.attainmentChart > .k-chart{
+  height: 100px!important;
+}
+
+.k-chart, .k-stockchart{
+  height: 222px!important;
+}
+
+.cui .base-margin-top{
+  margin-bottom: 10px!important;
+  margin-top: 0px!important;
+}
+
+.smallChart > .k-chart{
+  height: 50px!important;}
+
+.fa-arrow-up{
+  color:Green;
+}
+.fa-arrow-down{
+  color:red;
+}
+
+table {
+  width:510px;
+  height:150px
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+.iBChartNew > .k-chart{
+  height: 60px!important;
+}
+
+.profChart > .k-chart{
+  height: 100px!important;
+}
+.base-margin-top{
+  font-weight: 600!important;
+}
+
+//.leadChart > .k-chart{
+//  height: 200px!important;
+//}
+
+//.iBchart > .k-chart{
+//  margin-left: 10%!important;
+//  width: 400px!important;
+//}
+
+
+table#t01 tr:nth-child(even) {
+  background-color: #f6f6f6;
+}
+table#t01 tr:nth-child(odd) {
+  background-color: #fff;
+}
+table#t01 th {
+  background-color: #049fd9;
+  color: white;
+}
+
+table#t01{
+width: 600px!important;
+}
